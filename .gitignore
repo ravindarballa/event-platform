@@ -40,3 +40,9 @@ Thumbs.db
 
 .nx/cache
 .nx/workspace-data
+
+vite.config.*.timestamp*
+
+error.log
+# or to be safer for all future logs:
+*.log
